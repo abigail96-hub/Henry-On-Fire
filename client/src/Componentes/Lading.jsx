@@ -5,5 +5,5 @@ function Lading() {
     <div>Probando github</div>
   )
 }
-//landing carli
+//landing carlii
 export default Lading
