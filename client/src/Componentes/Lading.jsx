@@ -2,7 +2,7 @@ import React from 'react'
 
 function Lading() {
   return (
-    <div>Probando github</div>
+    <div>que</div>
   )
 }
 //bianchi
